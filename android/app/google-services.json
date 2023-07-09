@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091710699623",
+    "project_id": "itschool-7928e",
+    "storage_bucket": "itschool-7928e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091710699623:android:a030e865e6453c78a72cc2",
+        "android_client_info": {
+          "package_name": "com.illuminatetech.itschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091710699623-ktfsjl71ck7e9o3fknui1qotcj7b2g7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_4gaybNBF3ZVLzT9Dcl7JHj-4d67KxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091710699623-ktfsjl71ck7e9o3fknui1qotcj7b2g7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
